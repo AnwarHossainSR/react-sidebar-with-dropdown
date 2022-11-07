@@ -1,7 +1,8 @@
+import logo from './image/typescript-logo-240.png';
+
 const assets = {
   images: {
-    // eslint-disable-next-line global-require
-    logo: require('./images/typescript-logo-240.png'),
+    logo,
   },
 };
 
