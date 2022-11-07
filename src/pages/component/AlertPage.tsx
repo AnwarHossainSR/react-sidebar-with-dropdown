@@ -1,4 +1,8 @@
-function AlertPage() {
+type Props = {
+  //
+};
+
+function AlertPage(props: Props) {
   return <div>AlertPage</div>;
 }
 

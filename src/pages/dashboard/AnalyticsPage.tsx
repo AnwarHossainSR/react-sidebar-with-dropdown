@@ -1,4 +1,8 @@
-function AnalyticsPage() {
+type Props = {
+  // ...
+};
+
+function AnalyticsPage(props: Props) {
   return <div>AnalyticsPage</div>;
 }
 

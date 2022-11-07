@@ -1,4 +1,8 @@
-function DefaultPage() {
+type Props = {
+  // ...
+};
+
+function DefaultPage(props: Props) {
   return <div>DefaultPage</div>;
 }
 

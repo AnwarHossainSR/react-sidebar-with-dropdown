@@ -1,4 +1,8 @@
-function DocumentationPage() {
+type Props = {
+  // ...
+};
+
+function DocumentationPage(props: Props) {
   return <div>DocumentationPage</div>;
 }
 
